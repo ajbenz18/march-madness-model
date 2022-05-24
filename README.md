@@ -9,3 +9,7 @@ All analysis is contained in analysis.ipynb and it uses files contained in this 
 The other .ipynb file, cleaning.ipynb processes, cleans, and merges the raw data into the usable, parsable data. This file does not need to be run as the parsable data is already present in the repository.
 
 repo can be found at https://github.com/bensmana/honors-proj and cloned from https://github.com/bensmana/honors-proj.git
+
+## Results
+
+For the two years a I tested and manually scored, my model's brackets performed in the 98th and 85th percentiles of brackets on NCAA's website.
